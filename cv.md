@@ -159,4 +159,25 @@ ___
     - Perseverance
 
 ___
+## Work Experience
+##### 11/2019 - 10/2020 | Designer | Look Ahead Agency, Saint-Petersburg
+- Creating short video clips and motion for instagram | *After Effects*
+- Design brand identity, includes logo and guideline creation | *Illustrator*
+- Booklet layout | *InDesign*
+- Static and dynamic digital banners creation | *Illustrator, After Effects, Photoshop*
 
+##### 11/2017 - 11/2019 | Graphic designer | Samolet Group, Saint-Petersburg
+- Creating and preparing marketing materials:
+   - Design for advertising campaigns | *Illustrator, After Effects, Photoshop*
+   - Static and dynamic banners | *Illustrator, After Effects, Photoshop*
+   - Pdf presentations | *Illustrator*
+   - Booklet layout | *InDesign*
+   - Other types of graphic design: printed materials, merch | *Illustrator, Photoshop*
+   
+##### 03/2015 - 11/2017 | Graphic designer SMM | Traffic Agency, Saint-Petersburg
+- Creating visual materials for social media:
+    - Gif animations | *Illustrator, After Effects, Photoshop*
+    - digital illustrations | *Illustrator, Photoshop*
+    - pdf presentations design | *Illustrator*
+    - Product shooting | *Photography Stuff*, *Photoshop*
+    - creation content for social media in collaboration with a copywriter |*Illustrator, After Effects, Photoshop*
