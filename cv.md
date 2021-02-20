@@ -181,3 +181,18 @@ ___
     - pdf presentations design | *Illustrator*
     - Product shooting | *Photography Stuff*, *Photoshop*
     - creation content for social media in collaboration with a copywriter |*Illustrator, After Effects, Photoshop*
+
+___
+## Education
+##### [Uprock School](https://school.uprock.ru/)
+UI UX Design | 07/2019-09/2020  
+
+##### [IDS (International Design School)](https://designschool.ru/)
+Degree in Graphic Design | 09/2014-07/2015 
+
+## Self-education
+##### [CSS: The Missing Manual](https://www.amazon.com/CSS-Missing-David-Sawyer-McFarland/dp/1491918055#:~:text=David%20Sawyer%20McFarland%2C%20president%20of,Dreamweaver%2C%20CSS%2C%20and%20JavaScript.)
+by David Sawyer McFarland
+
+##### [Head First HTML and CSS: A Learner's Guide to Creating Standards-Based Web Pages](https://www.amazon.com/CSS-Missing-David-Sawyer-McFarland/dp/1491918055#:~:text=David%20Sawyer%20McFarland%2C%20president%20of,Dreamweaver%2C%20CSS%2C%20and%20JavaScript.)
+by Elisabeth Robson, Eric Freeman
