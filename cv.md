@@ -1,14 +1,20 @@
-# Anna Cherkesova
+# Anna Cherkesova 
 junior front-end developer
 
-___
+
 
 ## Contact
-+7 (931) 299-18-40 | cherkesova.anna@gmail.com | [Instagram](https://www.instagram.com/cherkesova/) | [GitHub](https://github.com/Cherkesova) | [Telegram](https://t.me/annacherkesova) | Russia, Saint-Petersburg
++7 (931) 299-18-40   
+cherkesova.anna@gmail.com  
+[Instagram](https://www.instagram.com/cherkesova/)  
+[GitHub](https://github.com/Cherkesova)  
+[Telegram](https://t.me/annacherkesova)  
+Russia, Saint-Petersburg
 
 ## Profile
-I'm an enthusiastic and detail-oriented front-end developer, passionate about IT and everything in this area e.g. development apps and building websites i decided to get right into it about three months ago. Looking for a junior position to use my skills in coding, troubleshooting complex problems, and assisting in the timely completion of projects.
-___
+I'm an enthusiastic and detail-oriented front-end developer, passionate about IT and everything in this area e.g. development apps and building websites i decided to get right into it about three months ago.  
+Looking for a junior position to use my skills in coding, troubleshooting complex problems, and assisting in the timely completion of projects.
+
 ## Tech Skills
 - **Programming skills**
     - HTML5
@@ -117,16 +123,16 @@ body {
 
 
 - **Tools**
-    - Git | GitHub
-    - VS Code | Sublime Text
+    - Git / GitHub
+    - VS Code / Sublime Text
     - Adobe CC: Photoshop, Illustrator, InDesign, After Effercts
     - Figma / Sketch
 
 - **Languages**
     - Russian (native)
     - English (B1)
-    
-___
+
+
 ## Soft Skills
 - **Communication**
     - Active listening
@@ -158,41 +164,41 @@ ___
     - Depebdability
     - Perseverance
 
-___
-## Work Experience
-##### 11/2019 - 10/2020 | Designer | Look Ahead Agency, Saint-Petersburg
-- Creating short video clips and motion for instagram | *After Effects*
-- Design brand identity, includes logo and guideline creation | *Illustrator*
-- Booklet layout | *InDesign*
-- Static and dynamic digital banners creation | *Illustrator, After Effects, Photoshop*
 
-##### 11/2017 - 11/2019 | Graphic designer | Samolet Group, Saint-Petersburg
+## Work Experience
+#### 11/2019 - 10/2020 | Designer | Look Ahead Agency, Saint-Petersburg
+- Creating short video clips and motion for instagram 
+- Design brand identity, includes logo and guideline creation 
+- Booklet layout 
+- Static and dynamic digital banners creation 
+
+#### 11/2017 - 11/2019 | Graphic designer | Samolet Group, Saint-Petersburg
 - Creating and preparing marketing materials:
-   - Design for advertising campaigns | *Illustrator, After Effects, Photoshop*
-   - Static and dynamic banners | *Illustrator, After Effects, Photoshop*
-   - Pdf presentations | *Illustrator*
-   - Booklet layout | *InDesign*
-   - Other types of graphic design: printed materials, merch | *Illustrator, Photoshop*
+   - Design for advertising campaigns 
+   - Static and dynamic banners 
+   - Pdf presentations 
+   - Booklet layout 
+   - Other types of graphic design: printed materials, merch
    
-##### 03/2015 - 11/2017 | Graphic designer SMM | Traffic Agency, Saint-Petersburg
+#### 03/2015 - 11/2017 | Graphic designer SMM | Traffic Agency, Saint-Petersburg
 - Creating visual materials for social media:
-    - Gif animations | *Illustrator, After Effects, Photoshop*
-    - digital illustrations | *Illustrator, Photoshop*
-    - pdf presentations design | *Illustrator*
-    - Product shooting | *Photography Stuff*, *Photoshop*
-    - creation content for social media in collaboration with a copywriter |*Illustrator, After Effects, Photoshop*
+    - Gif animations
+    - digital illustrations
+    - pdf presentations design
+    - Product shooting
+    - creation content for social media in collaboration with a copywriter
 
 ___
 ## Education
-##### [Uprock School](https://school.uprock.ru/)
+#### [Uprock School](https://school.uprock.ru/)
 UI UX Design | 07/2019-09/2020  
 
-##### [IDS (International Design School)](https://designschool.ru/)
+#### [IDS (International Design School)](https://designschool.ru/)
 Degree in Graphic Design | 09/2014-07/2015 
 
 ## Self-education
-##### [CSS: The Missing Manual](https://www.amazon.com/CSS-Missing-David-Sawyer-McFarland/dp/1491918055#:~:text=David%20Sawyer%20McFarland%2C%20president%20of,Dreamweaver%2C%20CSS%2C%20and%20JavaScript.)
+#### [CSS: The Missing Manual](https://www.amazon.com/CSS-Missing-David-Sawyer-McFarland/dp/1491918055#:~:text=David%20Sawyer%20McFarland%2C%20president%20of,Dreamweaver%2C%20CSS%2C%20and%20JavaScript.)
 by David Sawyer McFarland
 
-##### [Head First HTML and CSS: A Learner's Guide to Creating Standards-Based Web Pages](https://www.amazon.com/CSS-Missing-David-Sawyer-McFarland/dp/1491918055#:~:text=David%20Sawyer%20McFarland%2C%20president%20of,Dreamweaver%2C%20CSS%2C%20and%20JavaScript.)
+#### [Head First HTML and CSS: A Learner's Guide to Creating Standards-Based Web Pages](https://www.amazon.com/CSS-Missing-David-Sawyer-McFarland/dp/1491918055#:~:text=David%20Sawyer%20McFarland%2C%20president%20of,Dreamweaver%2C%20CSS%2C%20and%20JavaScript.)
 by Elisabeth Robson, Eric Freeman
