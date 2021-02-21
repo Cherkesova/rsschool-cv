@@ -1,4 +1,90 @@
 body {
     font-family: "Roboto", sans-serif;
-    font-size
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.2;
+    color: #000;
+}
+
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 7px;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 23px;
+}
+
+li {
+    margin-bottom: 7px;
+}
+
+/* container */
+.container {
+    display: flex;
+    flex-flow: row wrap;
+
+    width:100%;
+    max-width: 1000px;
+    min-height: 100vh;
+    margin: 0 auto;
+    border: 6px solid black;
+}
+
+
+/* sidebar */
+aside {
+    max-width: 363px;
+    border-right: 6px solid black;
+}
+
+figure {
+    padding: 42px 55px 32px 55px;
+    border-bottom: 6px solid black;
+}
+
+picture {
+    display:block;
+
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 23px;
+}
+
+picture img {
+    position: absolute;
+    top: 47%;
+    left:55%;
+    transform: translate(-50%,-50%) scale(0.23)
+}
+
+.personal-data {
+    padding: 37px 0 0 55px;
+}
+
+.personal-data article {
+    margin-bottom: 50px;
+}
+
+.contacts {
+    display: flex;
+    flex-direction: column;
+}
+
+.contacts a {
+    font-weight: 700;
+    color: #000;
 }
