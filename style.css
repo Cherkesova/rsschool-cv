@@ -189,6 +189,45 @@ main article { margin-bottom: 70px; }
 
 .tag_color-7{ background-color: #65cfca; }
 
+/* Code examples */
+.code-examples_list {
+    /* Positioning */
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    /* Box-model */
+    padding-left: 0;
+}
+
+.code-examples_list li{
+    /* Visual */
+    list-style-type: none;
+}
+.code-examples_list a {
+    /* Box-model */
+    display: block;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 8px;
+    padding: 5px 10px 4px;
+    margin-right: 10px;
+    /* Visual */
+    text-decoration: none;
+    color: black;
+    /* Misc */
+    transition: all .1s linear;
+} 
+
+.code-examples_list a:hover,
+.code-examples_list a:focus,
+.code-examples_list a:active{
+    /* Visual */
+    background-color: #e4e4e4;
+    outline: none;
+    /* Misc */
+    transform: translate(1px,2px);
+}  
+
 /*Soft skills */
 .soft-skills { margin-bottom: 30px; }
 
