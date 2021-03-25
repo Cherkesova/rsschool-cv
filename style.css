@@ -51,6 +51,7 @@ li {
 
 /* Container */
 .container {
+    padding:0;
     /* Positioning */
     display: flex;
     flex-flow: row nowrap;
@@ -64,12 +65,8 @@ li {
 aside {
     /* Box-model */
     width: 100%;
-    max-width: 310px;
-    min-height: 100%;
-    max-height: 100%;
-    /* Visual */
-    border: 6px solid black;
-    border-right: none;
+    max-width: 320px;
+
     /* Positioning */
     position: fixed;
     overflow: auto;
@@ -83,7 +80,7 @@ aside li { list-style-type: none; }
 figure {
     /* Box-model */
     padding: 32px 55px 22px 55px;
-    border-bottom: 6px solid black;
+    border-bottom: 5px solid black;
 }
 
 picture {
@@ -142,13 +139,22 @@ main {
     /* Box-model */
     width: 100%;
     max-width: 1000px;
-    padding: 70px 65px 80px 75px;
-    margin-left: 310px;
-    /* Visual */
-    border: 6px solid black;  
+
+    position: relative;
+    overflow: hidden;
+
+    border: 5px solid black;
 }
 
 main article { margin-bottom: 70px; }
+
+.personal__info{
+    margin-left: 320px;
+    padding: 65px 75px 75px 80px;
+
+    border-left: 5px solid black;
+
+}
 
 /* Tech skills */
 .tech-skills { margin-bottom: 40px; }
@@ -188,6 +194,45 @@ main article { margin-bottom: 70px; }
 .tag_color-6{ background-color: #fc5959; }
 
 .tag_color-7{ background-color: #65cfca; }
+
+/* Code examples */
+.code-examples_list {
+    /* Positioning */
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    /* Box-model */
+    padding-left: 0;
+}
+
+.code-examples_list li{
+    /* Visual */
+    list-style-type: none;
+}
+.code-examples_list a {
+    /* Box-model */
+    display: block;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 8px;
+    padding: 5px 10px 4px;
+    margin-right: 10px;
+    /* Visual */
+    text-decoration: none;
+    color: black;
+    /* Misc */
+    transition: all .1s linear;
+} 
+
+.code-examples_list a:hover,
+.code-examples_list a:focus,
+.code-examples_list a:active{
+    /* Visual */
+    background-color: #e4e4e4;
+    outline: none;
+    /* Misc */
+    transform: translate(1px,2px);
+}  
 
 /*Soft skills */
 .soft-skills { margin-bottom: 30px; }
